@@ -1,4 +1,4 @@
-# Corneal Deformations Detection on Android using TFLite \n
+# Corneal Deformations Detection on Android using TFLite 
 The project aim is to determine if a Deep Learning and a mobile device can be used to
 help diagnose corneal abnormalities. The hypothesis is that an image taken from a mobile
 device of corneal topography image and can be utilised for automatic diagnosis of abnor-
